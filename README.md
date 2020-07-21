@@ -1,20 +1,20 @@
 # Patrick Low Beng Chee
-
-Experience Summary:
-An experienced IT Professional with proven background in large scale transition and transformation programs for IT Infrastructure, Application Solution and IT Services Management. Receiver of the prestigious HP CIO Leadership Award for achievement in the execution of HP Datacenter Consolidation (DCC) program. Proven track record as a self-starter with excellent people and communication skills. Highly adaptable. Thrives with change.
-Key capabilities include: 
-	Project Management (PMP certified)
-	Huawei Certified Internetwork Expert (HCIE) – Routing & Switching
-	Huawei Certified ICT Associate (HCIA) – Storage & Transmission
-	Microsoft Certified Solution Developer (Azure Solution Architect)
-	IBM Certified Technical Sales Expert (Power & Pureflex System) 
-	VMware VCA (Data Center, Cloud & Workforce Mobility)
-	Dell System and Storage Technical Sales
-	Veeam Technical Sales Professional
-	CISCO Data Center Unified Computing (DCUCi), 
-	IT Networking (CCNA) 
-	IT Security (WASP)  
-	IT Service Management (ITILv3) and
+<p>
+Experience Summary: <br />
+An experienced IT Professional with proven background in large scale transition and transformation programs for IT Infrastructure, Application Solution and IT Services Management. Receiver of the prestigious HP CIO Leadership Award for achievement in the execution of HP Datacenter Consolidation (DCC) program. Proven track record as a self-starter with excellent people and communication skills. Highly adaptable. Thrives with change.<br />
+Key capabilities include: <br />
+	Project Management (PMP certified)<br />
+	Huawei Certified Internetwork Expert (HCIE) – Routing & Switching<br />
+	Huawei Certified ICT Associate (HCIA) – Storage & Transmission<br />
+	Microsoft Certified Solution Developer (Azure Solution Architect)<br />
+	IBM Certified Technical Sales Expert (Power & Pureflex System) <br />
+	VMware VCA (Data Center, Cloud & Workforce Mobility)<br />
+	Dell System and Storage Technical Sales<br />
+	Veeam Technical Sales Professional<br />
+	CISCO Data Center Unified Computing (DCUCi), <br />
+	IT Networking (CCNA) <br />
+	IT Security (WASP)  <br />
+	IT Service Management (ITILv3)<br />
 ________________________________________
 PROFESSIONAL EXPERIENCE
 
