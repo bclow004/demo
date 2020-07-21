@@ -41,23 +41,23 @@ ________________________________________<br /><br />
 	•Work with clients around existing support programs to build roadmap and facilitate development of applications on a cloud platform<br />
 <b>Achievements:</b><br />
 	•Completed more than 150 clients engagement projects in the first year.<br />
-	S•uccessfully completed the setup of Active Directory Domain Services (ADDS), Machine Learning with Stream Analytics demo environment on Microsoft Azure Platform. <br />
+	•Successfully completed the setup of Active Directory Domain Services (ADDS), Machine Learning with Stream Analytics demo environment on Microsoft Azure Platform. <br />
 	•Develop and lead the Sales Team enablement effort for Asia Pacific Offices and conducted internal qualification test successful to level up the overall product knowledge.<br />
 <br />
-IBM Singapore Pte Ltd 				(Sep 2012 – Apr2014)<br />
+<b>IBM Singapore Pte Ltd (Sep 2012 – Apr2014)</b><br />
 Senior IT Specialist (ASEAN) <br />
-Responsibilities:<br />
+<b>Responsibilities:</b><br />
 	•Engage clients, create baselines and document Service Agreements through due diligence process<br />
 	•Conduct Client Demos, Proof of Concept (PoC), Tuning, Optimization and Benchmark testing on IBM hardware platform<br />
 	•Evolve existing client environment to achieve IBM’s service level agreements (SLAs) in areas of IT infrastructure, processes, and tools.<br />
-Achievements:<br />
+<b>Achievements:</b><br />
 	•Completed more than 50 clients engagement projects at the Benchmark Center in the first year, delivering 144% of target influence revenue for FY.<br />
 	•Successfully completed the setup of SAP and VMware Horizon suites demo environment on IBM PureFlex Systems at the IBM Client Center in record time of 2 days.<br /> 
 	•Develop and lead the Desk-side support efforts for State Street Corporation successfully and delivering higher productivity from client’s baseline.<br />
 <br />
-TEMASEK POLYTECHNIC (Higher Education)	(Jul 2010 – Sep 2012)<br />
+<b>TEMASEK POLYTECHNIC (Higher Education)	(Jul 2010 – Sep 2012)</b><br />
 Lecturer cum Section Head for Services Delivery and Operations<br />
-Responsibilities:<br />
+<b>Responsibilities:</b><br />
 	•Lecturer for Cloud Computing, Converged Networking, Internet-of-Things (IoT) and IT Service Management (ITSM) subjects.<br />
 	•Lead for the TP-IBM ITSM-center implementation phase with overall responsibility on harvesting and optimizing the value for the Centre operations.<br />
 	•Provide Consultancy to the Dat•acenter Virtualization (Server/Storage) and Virtualized Desktop Infrastructure (VDI) projects implementation for Temasek Polytechnic.<br />
@@ -68,43 +68,43 @@ Responsibilities:<br />
 	•Contributed to the successful implementation of the VDI solution to a marked improvement on the availability and manageability of the IT environment.<br />
 <br />
 
-HEWLETT-PACKARD ASIAPACIFIC PTE LTD<br />	
-Project Manager for RCS Transformation (WW)	(Jul 2009 – Jul 2010)<br />
+<b>HEWLETT-PACKARD ASIAPACIFIC PTE LTD</b><br />	
+1) Project Manager for RCS Transformation (WW)	(Jul 2009 – Jul 2010)<br />
 Responsibilities:<br />
 	•Design, Setup and Consolidate the Satellite Datacenters for the company's regional offices to support users, partners, factories and laboratories (including R&D) in and around the APJ region.<br />
 	•The datacenter built using Green (energy efficient) concepts and support the latest technologies including unified communications and cloud computing capabilities.<br />
-Achievements:<br />
+<b>Achievements:</b><br />
 	•Completed and obtained all necessary buy-ins from stakeholders on the project plan.<br />
 	•Execute the project plan successfully on-time and within budget.  <br />
 <br />	
-Project Manager for EDS integration (APJ & EMEA)	(Aug 2008 – Jul 2009)<br />
-Responsibilities:<br />
+2) Project Manager for EDS integration (APJ & EMEA)	(Aug 2008 – Jul 2009)<br />
+<b>Responsibilities:</b><br />
 	•Project Manage the EDS regional IT integration project within eighteen months timeframe <br />
 	•Drive server reduction and IT application transformation effort to achieve full integration.<br />
 	•Coordinate implementation of worldwide programs, standards and policies to achieve consistency in standards.<br />
-Achievements:<br />
+<b>Achievements:</b><br />
 	•Kick-off the APJ integration planning forum with representatives from both HP and EDS.<br />
 	•Complete and obtained approval for work plan on first pass with full stakeholders buy-in. <br />
 <br />
-Project Manager for Data Center Consolidation (APJ) (Nov 2006 – Jul 2008)<br />
-Responsibilities:<br />
+3) Project Manager for Data Center Consolidation (APJ) (Nov 2006 – Jul 2008)<br />
+<b>Responsibilities:</b><br />
 	•Project Manage the HP Strategic business plan to consolidate all of the company’s ~150 datacenter and ~200 server rooms in APJ Region into 6 state-of-art “Light’s Off” Data Centers in United States of America (USA) within 2 years.<br />
 	•Drive server reduction and application transformation effort to achieve big reduction of HP’s footprint in APJ region, all without disrupting operational readiness and services.<br />
 	•Coordinate implementation of worldwide programs, standards and policies.<br />
-Achievements:<br />
+<b>Achievements:</b><br />
  •Delivered results on-time and under budget. Awarded the CIO Award for Leadership for exemplifying HP leadership values and demonstrate a driving force for change.<br />
  •Above target delivery in helping HP exit 150 Datacenters in the APJ region, thus saving the company ~$50,000,000 per year in recurring operating expenses,<br />
  •Achieved zero major disruption in services throughout the project period. <br />
  •Contributed to application transformation effort thus helping HP retire in excess of 500 apps.<br />
 <br />
-Business Infrastructure and Security Consultant 	(Jul 2004 – Nov 2006)<br />
-Responsibilities:<br />
+4) Business Infrastructure and Security Consultant 	(Jul 2004 – Nov 2006)<br />
+<b>Responsibilities:</b><br />
 	•Manage business IT infrastructure to meet business needs, budget, stability, reliability & delivery timeline.<br />
 	•Drive HP Commercialization Program in the region and participate in the regional governance council.<br />
 	•Coordinate implementation of worldwide infrastructure programs, standards and policies to ensure consistency.<br />
 	•Provide security program management and linkage to worldwide security team.<br />
 	•Improve infrastructure services from outsourcer, drive repeatable and regular QoS (Quality of Service) reviews.<br />
-Achievements:<br />
+<b>Achievements:</b><br />
  •Successfully completed HP Obsolesces Program including the transformation of WinNT4, Oracle 8i, Informix, Apache 1.3, HP UX10.2, LINUX Redhat & Virtual Vault to newer solution.<br />
  •Successfully completed HP Commercialisation Program and transitioned into a cost efficient outsourcing model for HP businesses.
  •Facilitate the successfully completion of Core Network Backbone Implementation in APJ resulting in Bandwidth expansion from 77MB to 190MB and much lower bandwidth costs from US$5,416/MB to US$1,746/MB.<br />
