@@ -68,7 +68,7 @@ ________________________________________<br /><br />
 	•Contributed to the successful implementation of the VDI solution to a marked improvement on the availability and manageability of the IT environment.<br />
 <br />
 
-<b>HEWLETT-PACKARD ASIAPACIFIC PTE LTD</b><br />	
+<b>HEWLETT-PACKARD ASIAPACIFIC PTE LTD (Jul 2004 – Jul 2010)</b><br />	
 1) Project Manager for RCS Transformation (WW)	(Jul 2009 – Jul 2010)<br />
 <b>Responsibilities:</b><br />
 	•Design, Setup and Consolidate the Satellite Datacenters for the company's regional offices to support users, partners, factories and laboratories (including R&D) in and around the APJ region.<br />
