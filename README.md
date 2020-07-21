@@ -70,7 +70,7 @@ ________________________________________<br /><br />
 
 <b>HEWLETT-PACKARD ASIAPACIFIC PTE LTD</b><br />	
 1) Project Manager for RCS Transformation (WW)	(Jul 2009 – Jul 2010)<br />
-Responsibilities:<br />
+<b>Responsibilities:</b><br />
 	•Design, Setup and Consolidate the Satellite Datacenters for the company's regional offices to support users, partners, factories and laboratories (including R&D) in and around the APJ region.<br />
 	•The datacenter built using Green (energy efficient) concepts and support the latest technologies including unified communications and cloud computing capabilities.<br />
 <b>Achievements:</b><br />
@@ -111,27 +111,27 @@ Responsibilities:<br />
  •Successfully launched of the new high-availability (99.999%) data center (Com3 in Singapore) and migrated all mission-critical application into it. <br />
  •Successful completion of Openmail to Exchange migration for all business partners across APJ, and obsoleting Openmail platform in APJ.<br />
 ________________________________________<br />
-OKI SEMICONDUCTOR SINGAPORE PTE LTD 	(Aug 2002 – Jul 2004)<br />
+<b>OKI SEMICONDUCTOR SINGAPORE PTE LTD 	(Aug 2002 – Jul 2004)</b><br />
 IT Engineer (System & Application Administration, Infrastructure Management)<br />
 ________________________________________<br />
-HEWLETT-PACKARD FAR EAST PTE LTD 		(Apr 2001 – Aug 2002)<br />
+<b>HEWLETT-PACKARD FAR EAST PTE LTD 		(Apr 2001 – Aug 2002)</b><br />
 Web Application Developer (Java)<br />
 ________________________________________<br />
-REPUBLIC OF SINGAPORE AIR FORCE	(Apr 1990 – Mar 2001)<br />
+<b>REPUBLIC OF SINGAPORE AIR FORCE	(Apr 1990 – Mar 2001)</b><br />
 Engineer (Aviation Engineering)<br />
 ________________________________________<br />
-EDUCATION<br />
+<b>EDUCATION</b><br />
 • Bachelor in Computer Science with Management, The Open University, SIM, 2000<br />
 • Professional Diploma in Management, The Open University (UK), 2000<br />
 • Diploma in Mechanical Engineering from Singapore Polytechnics, 1993<br />
 ________________________________________<br />
-AWARDS<br />
+<b>AWARDS</b><br />
 • HP CIO Award for Leadership<br />
 • Minister of Defense Award in Productivity and Training<br />
 • Best WITs (Work Improvement Teams) Facilitator<br />
 • MENSA Certificate - Results of RAVEN'S IQ TEST (MENSA): 144 (97 Percentile).<br />
 ________________________________________<br />
-SKILLS AND PROFESSIONAL DEVELOPMENT<br />
+<b>SKILLS AND PROFESSIONAL DEVELOPMENT</b><br />
 • Certified in Huawei Internetwork Expert and ICT Associate (HCIE R&S, HCIA Storage)<br />
 • Certified Project Management Professional (PMP)<br />    
 • Certified Microsoft Azure Solution Architect (MCSD)<br />
