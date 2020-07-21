@@ -16,15 +16,15 @@ Key capabilities include: <br />
 	IT Security (WASP)  <br />
 	IT Service Management (ITILv3)<br />
 ________________________________________<br /><br />
- <b>PROFESSIONAL EXPERIENCE</b><br />
+ <b>PROFESSIONAL EXPERIENCE</b><br /><br />
 
-Huawei Technologies Pte Ltd				(Sep 2016 – Now)<br />		
+<b>Huawei Technologies Pte Ltd	(Sep 2016 – Now)</b><br />		
 Principal Architect @ CTO Office<br />
-Responsibilities:<br />
+<b>Responsibilities:</b><br />
 	Manage Strategic and Core Account to generate sustainable sales value proposition <br />
 	Provide solution and best practice on Huawei Product and Services to clients<br />
 	Complete Sales Cycle leading to customer contract.<br />
-Achievements:<br />
+ <b>Achievements:</b><br />
 	Completed Sales target of US$8M ahead of time through Account analysis and Farming techniques.<br />
 	Completed 20 Business Development account to uncover US$100M of sales pipeline <br />
 	Lead the marketing efforts in Openstack, VDI and Big Data solutions from Huawei Enterprise Business Group (EBG)<br />
@@ -33,28 +33,27 @@ Achievements:<br />
 Microsoft  Corporation at N3 Singapore		(May 2014 - Sep 2016)<br />
 Cloud Technologies Architect (Asia Pacific) <br />
 Responsibilities:<br />
-•	Discover and advise clients on the right Azure technologies to implement<br />
-•	Appropriately communicate the business vale of cloud computing and facilitate the successful assessment of the platform<br />
-•	Provide solution to complex problems on the Microsoft Azure Platform<br />
-•	Setup development environments and replicate client problems<br />
-•	Provide technical enablement to clients developing applications on a cloud platform.<br />
-•	Work with clients around existing support programs to build roadmap and facilitate development of applications on a cloud platform<br />
-<br />
+	Discover and advise clients on the right Azure technologies to implement<br />
+	Appropriately communicate the business vale of cloud computing and facilitate the successful assessment of the platform<br />
+	Provide solution to complex problems on the Microsoft Azure Platform<br />
+	Setup development environments and replicate client problems<br />
+	Provide technical enablement to clients developing applications on a cloud platform.<br />
+	Work with clients around existing support programs to build roadmap and facilitate development of applications on a cloud platform<br />
 Achievements:<br />
-•	Completed more than 150 clients engagement projects in the first year.<br />
-•	Successfully completed the setup of Active Directory Domain Services (ADDS), Machine Learning with Stream Analytics demo environment on Microsoft Azure Platform. <br />
-•	Develop and lead the Sales Team enablement effort for Asia Pacific Offices and conducted internal qualification test successful to level up the overall product knowledge.<br />
+	Completed more than 150 clients engagement projects in the first year.<br />
+	Successfully completed the setup of Active Directory Domain Services (ADDS), Machine Learning with Stream Analytics demo environment on Microsoft Azure Platform. <br />
+	Develop and lead the Sales Team enablement effort for Asia Pacific Offices and conducted internal qualification test successful to level up the overall product knowledge.<br />
 <br />
 IBM Singapore Pte Ltd 				(Sep 2012 – Apr2014)<br />
 Senior IT Specialist (ASEAN) <br />
 Responsibilities:<br />
-•	Engage clients, create baselines and document Service Agreements through due diligence process<br />
-•	Conduct Client Demos, Proof of Concept (PoC), Tuning, Optimization and Benchmark testing on IBM hardware platform<br />
-•	Evolve existing client environment to achieve IBM’s service level agreements (SLAs) in areas of IT infrastructure, processes, and tools.<br />
+	Engage clients, create baselines and document Service Agreements through due diligence process<br />
+	Conduct Client Demos, Proof of Concept (PoC), Tuning, Optimization and Benchmark testing on IBM hardware platform<br />
+	Evolve existing client environment to achieve IBM’s service level agreements (SLAs) in areas of IT infrastructure, processes, and tools.<br />
 Achievements:<br />
-•	Completed more than 50 clients engagement projects at the Benchmark Center in the first year, delivering 144% of target influence revenue for FY.<br />
-•	Successfully completed the setup of SAP and VMware Horizon suites demo environment on IBM PureFlex Systems at the IBM Client Center in record time of 2 days.<br /> 
-•	Develop and lead the Desk-side support efforts for State Street Corporation successfully and delivering higher productivity from client’s baseline.<br />
+	Completed more than 50 clients engagement projects at the Benchmark Center in the first year, delivering 144% of target influence revenue for FY.<br />
+	Successfully completed the setup of SAP and VMware Horizon suites demo environment on IBM PureFlex Systems at the IBM Client Center in record time of 2 days.<br /> 
+	Develop and lead the Desk-side support efforts for State Street Corporation successfully and delivering higher productivity from client’s baseline.<br />
 <br />
 TEMASEK POLYTECHNIC (Higher Education)		      (Jul 2010 – Sep 2012)<br />
 Lecturer cum Section Head for Services Delivery and Operations<br />
