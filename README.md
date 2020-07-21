@@ -1,4 +1,4 @@
-# Patrick Low Beng Chee
+# Patrick Low Beng Chee <a href= "mailto:patlowbc@gmail.com" >Email</a>
 <p>
 Experience Summary: <br />
 An experienced IT Professional with proven background in large scale transition and transformation programs for IT Infrastructure, Application Solution and IT Services Management. Receiver of the prestigious HP CIO Leadership Award for achievement in the execution of HP Datacenter Consolidation (DCC) program. Proven track record as a self-starter with excellent people and communication skills. Highly adaptable. Thrives with change.<br />
@@ -15,8 +15,8 @@ Key capabilities include: <br />
 	IT Networking (CCNA) <br />
 	IT Security (WASP)  <br />
 	IT Service Management (ITILv3)<br />
-________________________________________<br />
-PROFESSIONAL EXPERIENCE<br /><br />
+________________________________________<br /><br />
+ <b>PROFESSIONAL EXPERIENCE</b><br />
 
 Huawei Technologies Pte Ltd				(Sep 2016 – Now)<br />		
 Principal Architect @ CTO Office<br />
