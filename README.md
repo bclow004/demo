@@ -131,7 +131,7 @@ ________________________________________<br />
 • Best WITs (Work Improvement Teams) Facilitator<br />
 • MENSA Certificate - Results of RAVEN'S IQ TEST (MENSA): 144 (97 Percentile).<br />
 ________________________________________<br />
-<b><font size="5">SKILLS AND PROFESSIONAL DEVELOPMENT<</font>/b><br />
+<b><font size="5">SKILLS AND PROFESSIONAL DEVELOPMENT</font></b><br />
 • Certified in Huawei Internetwork Expert and ICT Associate (HCIE R&S, HCIA Storage)<br />
 • Certified Project Management Professional (PMP)<br />    
 • Certified Microsoft Azure Solution Architect (MCSD)<br />
