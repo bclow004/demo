@@ -16,7 +16,7 @@ An experienced IT Professional with proven background in large scale transition 
 	IT Security (WASP)  <br />
 	IT Service Management (ITILv3)<br />
 ________________________________________<br /><br />
- <b>PROFESSIONAL EXPERIENCE</b><br /><br />
+ <b><font size="5">PROFESSIONAL EXPERIENCE</font></b><br /><br />
 
 <b>Huawei Technologies Pte Ltd	(Sep 2016 – Now)</b><br />		
 Principal Architect @ CTO Office<br />
@@ -120,18 +120,18 @@ ________________________________________<br />
 <b>REPUBLIC OF SINGAPORE AIR FORCE	(Apr 1990 – Mar 2001)</b><br />
 Engineer (Aviation Engineering)<br />
 ________________________________________<br />
-<b>EDUCATION</b><br />
+<b><font size="5">EDUCATION</font></b><br />
 • Bachelor in Computer Science with Management, The Open University, SIM, 2000<br />
 • Professional Diploma in Management, The Open University (UK), 2000<br />
 • Diploma in Mechanical Engineering from Singapore Polytechnics, 1993<br />
 ________________________________________<br />
-<b>AWARDS</b><br />
+<b><font size="5">AWARDS</font></b><br />
 • HP CIO Award for Leadership<br />
 • Minister of Defense Award in Productivity and Training<br />
 • Best WITs (Work Improvement Teams) Facilitator<br />
 • MENSA Certificate - Results of RAVEN'S IQ TEST (MENSA): 144 (97 Percentile).<br />
 ________________________________________<br />
-<b>SKILLS AND PROFESSIONAL DEVELOPMENT</b><br />
+<b><font size="5">SKILLS AND PROFESSIONAL DEVELOPMENT<</font>/b><br />
 • Certified in Huawei Internetwork Expert and ICT Associate (HCIE R&S, HCIA Storage)<br />
 • Certified Project Management Professional (PMP)<br />    
 • Certified Microsoft Azure Solution Architect (MCSD)<br />
