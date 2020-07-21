@@ -1,4 +1,4 @@
-# Patrick Low Beng Chee -- <sub><a href= "mailto:patlowbc@gmail.com" >patlowbc@gmail.com</a></sub>
+# Patrick Low Beng Chee <sub><a href= "mailto:patlowbc@gmail.com" >patlowbc@gmail.com</a></sub>
 <p>
 Experience Summary: <br />
 An experienced IT Professional with proven background in large scale transition and transformation programs for IT Infrastructure, Application Solution and IT Services Management. Receiver of the prestigious HP CIO Leadership Award for achievement in the execution of HP Datacenter Consolidation (DCC) program. Proven track record as a self-starter with excellent people and communication skills. Highly adaptable. Thrives with change.<br />
