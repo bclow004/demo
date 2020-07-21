@@ -29,7 +29,7 @@ ________________________________________<br /><br />
 	•Completed 20 Business Development account to uncover US$100M of sales pipeline <br />
 	•Lead the marketing efforts in Openstack, VDI and Big Data solutions from Huawei Enterprise Business Group (EBG)<br />
 	•Participate in training design, documentation and delivery efforts in concert with the Engagement Manager<br />
- <br />
+________________________________________ <br />
 <b>Microsoft  Corporation at N3 Singapore	(May 2014 - Sep 2016)</b><br />
 Cloud Technologies Architect (Asia Pacific) <br />
 <b>Responsibilities:</b><br />
@@ -43,7 +43,7 @@ ________________________________________<br /><br />
 	•Completed more than 150 clients engagement projects in the first year.<br />
 	•Successfully completed the setup of Active Directory Domain Services (ADDS), Machine Learning with Stream Analytics demo environment on Microsoft Azure Platform. <br />
 	•Develop and lead the Sales Team enablement effort for Asia Pacific Offices and conducted internal qualification test successful to level up the overall product knowledge.<br />
-<br />
+________________________________________<br />
 <b>IBM Singapore Pte Ltd (Sep 2012 – Apr2014)</b><br />
 Senior IT Specialist (ASEAN) <br />
 <b>Responsibilities:</b><br />
@@ -54,7 +54,7 @@ ________________________________________<br /><br />
 	•Completed more than 50 clients engagement projects at the Benchmark Center in the first year, delivering 144% of target influence revenue for FY.<br />
 	•Successfully completed the setup of SAP and VMware Horizon suites demo environment on IBM PureFlex Systems at the IBM Client Center in record time of 2 days.<br /> 
 	•Develop and lead the Desk-side support efforts for State Street Corporation successfully and delivering higher productivity from client’s baseline.<br />
-<br />
+________________________________________<br />
 <b>TEMASEK POLYTECHNIC (Higher Education)	(Jul 2010 – Sep 2012)</b><br />
 Lecturer cum Section Head for Services Delivery and Operations<br />
 <b>Responsibilities:</b><br />
@@ -66,8 +66,7 @@ ________________________________________<br /><br />
 	•Successfully led the TP team in harvesting the promised value-add of the ITSM Centre and contributed to the smooth go-live and improved operational efficiencies.<br />
 	•Responsible for the successful roll-out of IBM Tivoli tools for the school and improved the productivity of the support operation in the school by many folds.<br />
 	•Contributed to the successful implementation of the VDI solution to a marked improvement on the availability and manageability of the IT environment.<br />
-<br />
-
+________________________________________<br />
 <b>HEWLETT-PACKARD ASIAPACIFIC PTE LTD (Jul 2004 – Jul 2010)</b><br />	
 1) Project Manager for RCS Transformation (WW)	(Jul 2009 – Jul 2010)<br />
 <b>Responsibilities:</b><br />
