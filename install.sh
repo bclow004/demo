@@ -13,3 +13,5 @@ vrg system info
 
 # 3. List your VMs
 vrg vm list
+
+vrg <command> --help
