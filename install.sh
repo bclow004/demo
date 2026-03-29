@@ -15,3 +15,6 @@ vrg system info
 vrg vm list
 
 vrg <command> --help
+
+vrg vm create -f web-server.vrg.yaml --dry-run   # Preview
+vrg vm create -f web-server.vrg.yaml              # Create
