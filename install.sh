@@ -18,3 +18,5 @@ vrg <command> --help
 
 vrg vm create -f web-server.vrg.yaml --dry-run   # Preview
 vrg vm create -f web-server.vrg.yaml              # Create
+
+cd vergeos-support-agent && claude
