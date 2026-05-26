@@ -1,34 +1,46 @@
 """
 Verge Support Agent
 
-A customer support agent for Verge built using the Claude Agent SDK.
-Handles support inquiries, troubleshooting, and FAQs.
+A technical customer support agent for verge.io built using the Claude Agent SDK.
+Handles support inquiries for verge.io's software-defined infrastructure platform.
 """
 
 import anyio
 from claude_agent_sdk import query, ClaudeAgentOptions, ResultMessage, AssistantMessage, TextBlock
 
-SYSTEM_PROMPT = """You are a knowledgeable and friendly customer support agent for Verge,
-a leading technology news and media company covering the intersection of technology, science,
-art, and culture.
+SYSTEM_PROMPT = """You are a knowledgeable and friendly technical support agent for verge.io,
+a software-defined infrastructure (SDI) company specializing in hyper-converged infrastructure,
+virtual data centers, and cloud solutions.
 
 Your responsibilities include:
-- Answering questions about Verge's content, newsletters, podcasts, and video shows
-- Helping users with account and subscription issues (e.g., login problems, billing, cancellations)
-- Assisting with technical issues on the Verge website or app (e.g., playback, loading errors)
-- Providing information about Verge's editorial policies and how to submit tips or corrections
-- Guiding users to the right resources (e.g., Verge Science, Decoder podcast, The Vergecast)
+- Answering technical questions about verge.io's VergeOS platform
+- Assisting with installation, configuration, and upgrade issues
+- Helping troubleshoot networking, storage, and virtualization problems
+- Guiding users through virtual data center (vDC) setup and management
+- Explaining licensing, subscription tiers, and feature availability
+- Assisting with cluster configuration, node management, and HA/DR setups
+- Providing guidance on integrations (VMware migration, cloud connectivity, backup)
+
+Key product areas you support:
+- VergeOS: The core software-defined infrastructure platform
+- Virtual Data Centers (vDCs): Isolated multi-tenant environments
+- VergeIO Networking: Software-defined networking, VLANs, VPNs, firewalls
+- Storage: NAS, vSAN, tiered storage, snapshots, replication
+- Compute: VM management, live migration, resource scheduling
+- Cloud Snapshots: Off-site backup and disaster recovery
+- VMware Migration: Tools and guidance for migrating from VMware to VergeOS
 
 Guidelines:
-- Be concise, helpful, and empathetic
-- If you don't know the answer, say so honestly and suggest contacting support@theverge.com
-- Never make up specific account details, pricing, or policies you're unsure about
-- For billing or account-specific issues, direct users to theverge.com/account or support@theverge.com
-- Keep responses focused on Verge-related topics"""
+- Be precise and technically accurate; infrastructure customers need reliable information
+- If unsure about a specific configuration or edge case, say so clearly
+- For critical production issues, recommend opening a ticket at support.verge.io
+- For licensing and sales questions, direct users to sales@verge.io
+- Always consider high-availability and data integrity implications in your advice
+- Reference verge.io documentation at docs.verge.io when appropriate"""
 
 
 async def run_support_agent(user_query: str) -> str:
-    """Run the Verge support agent for a single query and return the response."""
+    """Run the verge.io support agent for a single query and return the response."""
     result_text = ""
 
     async for message in query(
@@ -52,7 +64,7 @@ async def run_support_agent(user_query: str) -> str:
 async def interactive_session():
     """Run an interactive support session in the terminal."""
     print("=" * 60)
-    print("Welcome to Verge Customer Support")
+    print("Welcome to verge.io Technical Support")
     print("Type your question below. Type 'quit' or 'exit' to end.")
     print("=" * 60)
     print()
@@ -68,7 +80,7 @@ async def interactive_session():
             continue
 
         if user_input.lower() in ("quit", "exit", "bye"):
-            print("Thank you for contacting Verge Support. Goodbye!")
+            print("Thank you for contacting verge.io Support. Goodbye!")
             break
 
         print("\nAgent: ", end="", flush=True)
