@@ -1,2 +1,1 @@
-claude-agent-sdk
-anyio
+anthropic

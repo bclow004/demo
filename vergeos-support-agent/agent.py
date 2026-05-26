@@ -1,9 +1,9 @@
 """
 VergeOS Support Agent — verge.io infrastructure platform support chatbot.
+Uses the Anthropic SDK directly for a clean Q&A chat experience.
 """
 
-import anyio
-from claude_agent_sdk import query, ClaudeAgentOptions, ResultMessage, AssistantMessage, TextBlock
+import anthropic
 
 SYSTEM_PROMPT = """You are a knowledgeable and friendly technical support agent for verge.io,
 a software-defined infrastructure (SDI) company specializing in hyper-converged infrastructure,
@@ -36,33 +36,46 @@ Guidelines:
 - Reference verge.io documentation at docs.verge.io when appropriate"""
 
 
-async def run_support_agent(user_query: str) -> str:
-    """Run the VergeOS support agent for a single query."""
-    result_text = ""
-    async for message in query(
-        prompt=user_query,
-        options=ClaudeAgentOptions(
-            system_prompt=SYSTEM_PROMPT,
-            model="claude-opus-4-6",
-            max_turns=5,
-        ),
-    ):
-        if isinstance(message, ResultMessage):
-            result_text = message.result
-        elif isinstance(message, AssistantMessage):
-            for block in message.content:
-                if isinstance(block, TextBlock):
-                    result_text = block.text
-    return result_text
+def run_support_agent(user_query: str, history: list | None = None) -> tuple[str, list]:
+    """
+    Run the VergeOS support agent for a single query.
+
+    Args:
+        user_query: The user's support question.
+        history: Prior conversation messages for multi-turn context.
+
+    Returns:
+        (response_text, updated_history)
+    """
+    client = anthropic.Anthropic()
+
+    if history is None:
+        history = []
+
+    messages = history + [{"role": "user", "content": user_query}]
+
+    response = client.messages.create(
+        model="claude-opus-4-6",
+        max_tokens=1024,
+        system=SYSTEM_PROMPT,
+        messages=messages,
+        thinking={"type": "adaptive"},
+    )
+
+    reply = next((b.text for b in response.content if b.type == "text"), "")
+    updated_history = messages + [{"role": "assistant", "content": reply}]
+    return reply, updated_history
 
 
-async def interactive_session():
-    """Run an interactive support session in the terminal."""
+def interactive_session():
+    """Run an interactive multi-turn support session in the terminal."""
     print("=" * 60)
     print("  verge.io Technical Support — VergeOS Platform")
     print("  Type 'quit' or 'exit' to end the session.")
     print("=" * 60)
     print()
+
+    history: list = []
 
     while True:
         try:
@@ -79,10 +92,10 @@ async def interactive_session():
             break
 
         print("\nAgent: ", end="", flush=True)
-        response = await run_support_agent(user_input)
-        print(response)
+        reply, history = run_support_agent(user_input, history)
+        print(reply)
         print()
 
 
 if __name__ == "__main__":
-    anyio.run(interactive_session)
+    interactive_session()
