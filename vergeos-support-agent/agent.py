@@ -1,13 +1,21 @@
 """
 VergeOS Support Agent — verge.io infrastructure platform support chatbot.
-Uses the Anthropic SDK directly for a clean Q&A chat experience.
+Uses the Anthropic SDK with the Marvin MCP server for live VergeOS demo data.
 """
 
 import anthropic
 
+MARVIN_MCP_URL = "https://mcp.vergeos-demo.com/mcp"
+MARVIN_MCP_TOKEN = "vrg-7f232c5664a82fee7f24359d583e03ed"
+
 SYSTEM_PROMPT = """You are a knowledgeable and friendly technical support agent for verge.io,
 a software-defined infrastructure (SDI) company specializing in hyper-converged infrastructure,
 virtual data centers, and cloud solutions.
+
+You have access to the Marvin MCP server which provides live data from a VergeOS demo
+environment. Use its tools to look up real system state, configurations, and diagnostics
+when answering questions — this makes your responses accurate and specific to the
+customer's environment.
 
 Your responsibilities include:
 - Answering technical questions about verge.io's VergeOS platform
@@ -29,6 +37,7 @@ Key product areas you support:
 
 Guidelines:
 - Be precise and technically accurate; infrastructure customers need reliable information
+- Use Marvin MCP tools to retrieve live data before answering environment-specific questions
 - If unsure about a specific configuration or edge case, say so clearly
 - For critical production issues, recommend opening a ticket at support.verge.io
 - For licensing and sales questions, direct users to sales@verge.io
@@ -54,12 +63,21 @@ def run_support_agent(user_query: str, history: list | None = None) -> tuple[str
 
     messages = history + [{"role": "user", "content": user_query}]
 
-    response = client.messages.create(
+    response = client.beta.messages.create(
         model="claude-opus-4-6",
         max_tokens=1024,
         system=SYSTEM_PROMPT,
         messages=messages,
         thinking={"type": "adaptive"},
+        betas=["mcp-client-2025-11-20"],
+        mcp_servers=[
+            {
+                "type": "url",
+                "url": MARVIN_MCP_URL,
+                "name": "marvin",
+                "authorization_token": MARVIN_MCP_TOKEN,
+            }
+        ],
     )
 
     reply = next((b.text for b in response.content if b.type == "text"), "")
@@ -71,6 +89,7 @@ def interactive_session():
     """Run an interactive multi-turn support session in the terminal."""
     print("=" * 60)
     print("  verge.io Technical Support — VergeOS Platform")
+    print("  Connected to Marvin MCP (live demo environment)")
     print("  Type 'quit' or 'exit' to end the session.")
     print("=" * 60)
     print()

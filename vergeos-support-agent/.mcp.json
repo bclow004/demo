@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "marvin": {
+      "type": "http",
+      "url": "https://mcp.vergeos-demo.com/mcp",
+      "headers": {
+        "Authorization": "vrg-7f232c5664a82fee7f24359d583e03ed"
+      }
+    }
+  }
+}
