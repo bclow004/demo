@@ -3,10 +3,11 @@ VergeOS Support Agent — verge.io infrastructure platform support chatbot.
 Uses the Anthropic SDK with the Marvin MCP server for live VergeOS demo data.
 """
 
+import os
 import anthropic
 
 MARVIN_MCP_URL = "https://mcp.vergeos-demo.com/mcp"
-MARVIN_MCP_TOKEN = "vrg-7f232c5664a82fee7f24359d583e03ed"
+MARVIN_MCP_TOKEN = os.environ.get("MARVIN_MCP_TOKEN", "vrg-7f232c5664a82fee7f24359d583e03ed")
 
 SYSTEM_PROMPT = """You are a knowledgeable and friendly technical support agent for verge.io,
 a software-defined infrastructure (SDI) company specializing in hyper-converged infrastructure,
